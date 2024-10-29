@@ -5,7 +5,6 @@ altair<6,>=4.0
 cachetools<6,>=4.0
 tzlocal<5,>=1.1
 validators<1,>=0.2
-pillow<10,>=6.2.0
 protobuf<5,>=3.20
 tenacity<9,>=8.0.0
 importlib-metadata<7,>=1.4
