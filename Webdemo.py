@@ -4,7 +4,7 @@ from PIL import Image
 import io
 
 
-API_URL = "http://127.0.0.1:5200/ocr/"
+API_URL = "http://14.224.172.108:5200/ocr/"
 
 st.title("OCR API Demo")
 st.write("Upload an image and get text extracted using OCR.")
