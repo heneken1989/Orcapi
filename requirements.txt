@@ -9,7 +9,7 @@ pillow<10,>=6.2.0
 protobuf<5,>=3.20
 tenacity<9,>=8.0.0
 importlib-metadata<7,>=1.4
-packaging<24,>=14.1  # Removed specific version to resolve conflic
+
 
 # Other dependencies
 altair==5.4.1
